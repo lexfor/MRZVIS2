@@ -1,0 +1,4 @@
+﻿  neural_network.cpp
+C:\Users\theti\source\repos\MRZVIS2\MRZVIS2\neural_network.cpp(24,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\theti\source\repos\MRZVIS2\MRZVIS2\neural_network.cpp(76,21): warning C4018: <: несоответствие типов со знаком и без знака
+  MRZVIS2.vcxproj -> C:\Users\theti\source\repos\MRZVIS2\Debug\MRZVIS2.exe
