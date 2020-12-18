@@ -1,6 +1,7 @@
 #pragma once
 //#include "Neuron.h"
 #include "Matrix.h"
+#include <math.h>
 #include <iostream>
 
 class neural_network
@@ -28,5 +29,7 @@ public:
 	std::vector<Matrix> FuncRez(std::vector<double>);
 	Matrix getDefault();
 	void ChooseFunc();
+	void Activate(Matrix&);
+	void setFunctions();
 };
 
